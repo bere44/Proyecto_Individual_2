@@ -1,5 +1,9 @@
+<p align=center><img src=https://raw.githubusercontent.com/bere44/Proyecto_Individual_2/master/src/vial.jpg><p>
 
-# Proyecto Individual 2 - Análisis de Datos de Siniestros Viales en la Ciudad de Buenos Aires
+
+<h1 align="center"> Proyecto Individual 2 </h1>
+
+#  Análisis de Datos de Siniestros Viales en la Ciudad de Buenos Aires
 
 
 ¡Bienvenido al proyecto de análisis de datos de siniestros viales en la ciudad de Buenos Aires! 
