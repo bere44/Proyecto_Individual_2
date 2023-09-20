@@ -58,21 +58,21 @@ El dashboard en Power BI consta de varias páginas que muestran información rel
 
 - Página de KPI: En esta página se presentan los KPI (Key Performance Indicators) que permiten evaluar las acciones tomadas por el gobierno para disminuir los siniestros y la cantidad de víctimas. Los KPIs incluyen:
 
-Tasa de Homicidios: 
-KPI1: Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
-Se define como el número total de víctimas fatales que hay en dataset por cada 100,000 un área geográfica durante un período de tiempo específico
-- Este KPI mide la variación de la tasa de homicidios en los últimos 6 meses. Es importante para evaluar si las acciones implementadas han contribuido a reducir la tasa de homicidios en los siniestros viales.
+** Tasa de Homicidios: 
++ KPI1: Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
+  + Se define como el número total de víctimas fatales que hay en dataset por cada 100,000 un área geográfica durante un período de tiempo específico
+  + Este KPI mide la variación de la tasa de homicidios en los últimos 6 meses. Es importante para evaluar si las acciones implementadas han contribuido a reducir la tasa de homicidios en los siniestros viales.
 
 Accidentes Mortales de Motociclistas: 
-KP12: Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
-Se define como el numero de accidentes fatales con víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
-- Este KPI mide la cantidad de accidentes mortales en los que las víctimas conducían motocicletas. Es relevante porque la mayoría de las víctimas mortales son personas que conducen este tipo de vehículo.
++ KP12: Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
+  + Se define como el numero de accidentes fatales con víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+  + Este KPI mide la cantidad de accidentes mortales en los que las víctimas conducían motocicletas. Es relevante porque la mayoría de las víctimas mortales son personas que conducen este tipo de vehículo.
 
 Víctimas Peatones Fallecidos y Gravemente Heridos: 
-KPI3: Reducir en un 5% la cantidad de peatones fallecidos en el ultimo año respecto al trimestre anterior, en CABA.
-KPI4: Reducir en un 15% la cantidad de peatones con heridas graves en el ultimo año respecto al trimestre anterior, en CABA.
-Se definen como el número de accidentes fatales y accidentes con víctimas con hervidas graves que sean peatones en un determinado periodo temporal. Su fórmula para medir la evolución: (Número de accidentes peatones (muertes fatales o heridas graves) en el trimestre anterior - Número de accidentes peatones(muertes fatales o heridas graves) en el trimestre actual) / (Número de accidentes peatones(muertes fatales o heridas graves) en el trimestre anterior) * 100
-- Estos KPIs miden la cantidad de peatones que fallecen y quedan gravemente heridos como resultado de los accidentes. Es importante porque las medidas tomadas deben incluir la concientización de los peatones sobre la cantidad de muertes, ya que la mayoría de la población actúa como peatón en algún momento de su vida.
++ KPI3: Reducir en un 5% la cantidad de peatones fallecidos en el ultimo año respecto al trimestre anterior, en CABA.
++ KPI4: Reducir en un 15% la cantidad de peatones con heridas graves en el ultimo año respecto al trimestre anterior, en CABA.
+  + Se definen como el número de accidentes fatales y accidentes con víctimas con hervidas graves que sean peatones en un determinado periodo temporal. Su fórmula para medir la evolución: (Número de accidentes peatones (muertes fatales o heridas graves) en el trimestre anterior - Número de accidentes peatones(muertes fatales o heridas graves) en el trimestre actual) / (Número de accidentes peatones(muertes fatales o heridas graves) en el trimestre anterior) * 100
+  + Estos KPIs miden la cantidad de peatones que fallecen y quedan gravemente heridos como resultado de los accidentes. Es importante porque las medidas tomadas deben incluir la concientización de los peatones sobre la cantidad de muertes, ya que la mayoría de la población actúa como peatón en algún momento de su vida.
 
 El dashboard en Power BI brinda una visión clara y concisa de la problemática de los siniestros viales y permite tomar acciones basadas en datos para reducir su incidencia y proteger a las víctimas.
 
