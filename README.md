@@ -97,4 +97,4 @@ La ciudad de Buenos Aires cuenta con plan de gestión de tránsito puede ser com
 
 
 ## Autora ✒️
-* **Berenisse de la Cruz**  - [Berenisse de la cruz](www.linkedin.com/in/berenisse-de-la-cruz-moreno)
+* **Berenisse de la Cruz**  - [Berenisse De la Cruz](https://www.linkedin.com/in/berenisse-de-la-cruz-moreno/)
