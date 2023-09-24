@@ -80,7 +80,8 @@ Durante el desarrollo del proyecto, se han generado los siguientes archivos:
   El dashboard en Power BI brinda una visión clara y concisa de la problemática de los siniestros viales y permite tomar acciones basadas en datos para reducir su incidencia y proteger a las víctimas.
 
 5. **Conclusiones**
-  La ciudad de Buenos Aires cuenta con plan de gestión de tránsito puede ser complementado con ciertas recomendaciones que a continuación daremos de acuerdo a los hallazgos encontrados en cada una de las páginas del dashboard:
+
+La ciudad de Buenos Aires cuenta con plan de gestión de tránsito puede ser complementado con ciertas recomendaciones que a continuación daremos de acuerdo a los hallazgos encontrados en cada una de las páginas del dashboard:
 
 + Gracias a la página hechos hemos podido llegar a las siguientes conclusiones y recomendaciones:
   + Se tiene que hacer una evaluación de diferentes alternativas de circulación en principales avenidas
